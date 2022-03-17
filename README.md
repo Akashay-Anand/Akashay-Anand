@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android development, Cloud, Web Development, and Social Media Marketing
 - 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on Open Source
-- 📫 How to reach me ... mail: akashayanand@gmail.com ; LinkedIn: https://www.linkedin.com/in/akashay-anand/  ; 
+- 📫 How to reach me ... mail: akashayanand1@gmail.com ; LinkedIn: https://www.linkedin.com/in/akashay-anand/  ; 
 - 📺 Youtube ...  CSBoy ANAND (https://www.youtube.com/channel/UCcO5mMW8vB2VedTSk926bVA )
 
 
