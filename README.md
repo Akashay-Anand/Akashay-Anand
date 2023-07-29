@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [DevOps Project](https://github.com/Akashay-Anand/Cloud-Native_Monitoring-Application)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Development**
 
 - 💞️ I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **MERN, Java**
+- 💬 Ask me about **MERN, Java, aws**
 
 - 📫 How to reach me **akashayanand1@gmail.com**
 
