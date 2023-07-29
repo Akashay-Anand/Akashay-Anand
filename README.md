@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashay-anand" alt="akashay-anand" /></a> </p>
 
-- 🔭 I’m currently working on [DevOps Project](https://github.com/Akashay-Anand/Cloud-Native_Monitoring-Application)
+- 🔭 I’m currently working on [Serverless Project](https://github.com/Akashay-Anand/Planetary-View)
 
 - 🌱 I’m currently learning **Development**
 
